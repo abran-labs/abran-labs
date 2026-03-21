@@ -13,12 +13,6 @@ Contact page: <b>Coming soon</b>
 
 <div align="center">
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abran-labs&show_icons=true&theme=github_dark_dimmed&hide=issues,prs,contribs&include_all_commits=true&count_private=true&cache_seconds=1800)
-
-</div>
-
-<div align="center">
-  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abran-labs&layout=compact&langs_count=6&theme=github_dark_dimmed&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
