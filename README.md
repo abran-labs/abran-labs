@@ -1,8 +1,7 @@
 <h1 align="center">Hey 👋</h1>
 
 <div align="center">
-  
-I’m Suna.<br>
+
 This is where I share personal projects I’ve decided to open-source.<br>
 <br>
 Contact page: <b>Coming soon</b>
